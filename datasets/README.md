@@ -6,7 +6,4 @@ School Performance Dataset from Kaggle: https://www.kaggle.com/datasets/nikhil72
 Housing Prices Dataset from Kaggle: https://www.kaggle.com/datasets/suvidyasonawane/house-price-prediction-dataset
     - information about housing prices based on different features with extra data added to demonstrate overfitting
 
-IMBD Top 250 Movies from Kaggle: https://www.kaggle.com/datasets/rajugc/imdb-top-250-movies-dataset
-    - information about popular movies based on different features with extra data added to demonstrate overfitting
-
 (all downloaded in repo in datasets folder for your convenience)
