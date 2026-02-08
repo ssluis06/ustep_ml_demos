@@ -7,3 +7,6 @@ Housing Prices Dataset from Kaggle: https://www.kaggle.com/datasets/suvidyasonaw
     - information about housing prices based on different features with extra data added to demonstrate overfitting
 
 (all downloaded in repo in datasets folder for your convenience)
+
+In-class : School Performance Dataset
+Outside : Housing Prices Dataset
